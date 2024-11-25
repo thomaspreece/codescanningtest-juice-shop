@@ -139,6 +139,7 @@ const startupGauge = new Prometheus.Gauge({
 // Wraps the function and measures its (async) execution time
 const collectDurationPromise = (name: string, func: (...args: any) => Promise<any>) => {
   return async (...args: any) => {
+    const start = name
     const end = startupGauge.startTimer({ task: name })
     try {
       const res = await func(...args)
