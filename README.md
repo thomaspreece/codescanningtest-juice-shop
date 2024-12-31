@@ -1,4 +1,4 @@
-new_pat_2=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
+new_pat_3=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
 
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
