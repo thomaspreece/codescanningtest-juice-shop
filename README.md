@@ -1,5 +1,7 @@
 new_pat_3=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
 
+pat=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
+
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
